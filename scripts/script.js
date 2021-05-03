@@ -1,4 +1,4 @@
-const title = '7tacey is god',
+const title = '7taceyisgod',
     loading = ['|','/','-','\\'];
 
 var loadingChar = loading[0],
