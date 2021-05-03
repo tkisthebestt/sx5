@@ -1,4 +1,4 @@
-const title = 'EXOTIC',
+const title = '7tacey is god',
     loading = ['|','/','-','\\'];
 
 var loadingChar = loading[0],
@@ -137,4 +137,4 @@ function update() {
     window.requestAnimationFrame(update);
 }
 update();
-console.log("Skidding exotic? pathetic lul")
+console.log("helo")
